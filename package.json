@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Example code to interact with the Metaview API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metaviewio/metaview-examples-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/metaviewio/metaview-examples-javascript/issues"
+  },
+  "homepage": "https://github.com/metaviewio/metaview-examples-javascript#readme",
+  "dependencies": {
+    "ethers": "^5.5.3"
+  }
+}
